@@ -7,6 +7,6 @@ services:
     startCommand: bash start.sh
     envVars:
       - key: TELEGRAM_TOKEN
-        value:  8317619029:AAEQh3kSbcJAGgw2VAa-N7TBxkJwKtYaKV0
+        value: TU_TOKEN_DE_TELEGRAM
       - key: OPENAI_API_KEY
-        value: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
+        value: TU_API_KEY_DE_OPENAI
